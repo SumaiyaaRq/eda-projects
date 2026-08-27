@@ -21,3 +21,21 @@ This project is part of my learning journey in Data Analysis and Machine Learnin
 
 The dataset contains information about **891 Titanic passengers** and initially consists of **12 columns**.
 
+
+### Main Features
+
+| Feature | Description |
+|---|---|
+| `PassengerId` | Unique identifier of each passenger |
+| `Survived` | Whether the passenger survived (`0` = No, `1` = Yes) |
+| `Pclass` | Passenger's ticket class (`1`, `2`, `3`) |
+| `Name` | Passenger's name |
+| `Sex` | Passenger's sex |
+| `Age` | Passenger's age |
+| `SibSp` | Number of siblings/spouses travelling with the passenger |
+| `Parch` | Number of parents/children travelling with the passenger |
+| `Ticket` | Passenger's ticket number |
+| `Fare` | Fare paid by the passenger |
+| `Cabin` | Passenger's cabin information |
+| `Embarked` | Port where the passenger boarded |
+
