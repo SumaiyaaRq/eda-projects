@@ -39,3 +39,26 @@ The dataset contains information about **891 Titanic passengers** and initially 
 | `Cabin` | Passenger's cabin information |
 | `Embarked` | Port where the passenger boarded |
 
+---
+
+## 🔍 Initial Data Exploration
+
+The dataset was first inspected using Pandas to understand:
+
+- Number of rows and columns
+- Data types
+- Missing values
+- Basic statistical characteristics
+- Distribution of the target variable (`Survived`)
+
+The dataset contains:
+
+- **891 rows**
+- **12 original columns**
+- Missing values in `Age`, `Cabin`, and `Embarked`
+- `Age` contains 714 non-null values
+- `Cabin` contains 204 non-null values
+- `Embarked` contains 889 non-null values
+
+---
+
