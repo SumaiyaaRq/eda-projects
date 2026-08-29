@@ -62,3 +62,14 @@ The dataset contains:
 
 ---
 
+## 📈 Outlier Analysis
+
+The IQR method was used to investigate potential outliers, particularly in the `Fare` column.
+
+Although several high-fare observations were identified as statistical outliers, they appeared to represent genuine passengers rather than obvious data-entry errors.
+
+Therefore, the outliers were **retained** rather than removed.
+
+> **Key principle:** An outlier is not necessarily an error. It should be investigated before being removed.
+
+
