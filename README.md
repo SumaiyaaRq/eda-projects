@@ -72,4 +72,19 @@ Therefore, the outliers were **retained** rather than removed.
 
 > **Key principle:** An outlier is not necessarily an error. It should be investigated before being removed.
 
+--- 
+
+## 🚧 Project Status
+The project is currently being developed incrementally.
+
+Completed so far:
+
+- Dataset understanding
+- Exploratory Data Analysis
+- Missing-value handling
+- Visualization
+- Correlation analysis
+- Outlier analysis
+- Initial feature engineering and preprocessing
+
 
