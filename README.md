@@ -87,4 +87,4 @@ Completed so far:
 - Outlier analysis
 - Initial feature engineering and preprocessing
 
-
+Further machine-learning experimentation and model evaluation will be added as the project progresses.
